@@ -1,5 +1,4 @@
 package g.a.m.e;
-
 import java.util.Scanner;
 public class TicTacToe {
     private static final char EMPTY = ' ';
